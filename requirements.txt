@@ -1,6 +1,3 @@
 pandas
 matplotlib
-seaborn
-numpy
-sklearn
-statsmodels
+
